@@ -4,7 +4,14 @@
 
 ### ✦ SOBRE.MÍ
 
-Soy **Noelia Fernández Páez**, Analista de Datos en Santa Cruz, Bolivia, con 0+ años de experiencia. Data Analysis with Python is the best!
+### Hello, I'm **Noelia Fernández Páez** 👋
+
+I'm a **Chemical Engineer** currently studying to become a **Data Analyst** and **Python Developer**. 
+
+I'm interested in building process simulations and solving engineering problems with Python, using libraries like **Pandas**, **NumPy**, and **Matplotlib**.
+
+* 🌱 **Currently learning:** Data analysis and Python programming.
+* 💻 **Tools I use:** Python, Jupyter Notebooks, Google Colab, and GitHub. 
 
 **Skills:** PostgreSQL · Python · Excel
 
